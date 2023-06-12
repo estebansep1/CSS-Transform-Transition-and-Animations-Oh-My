@@ -5,8 +5,8 @@ body  {
 }
 main {
   background-color: mediumaquamarine;
-  height: 90vh;
-  width: 100vh;
+  height: 75vh;
+  width: 150vh;
   margin: auto;
   display: flex;
   align-items: center;
